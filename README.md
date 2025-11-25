@@ -1,8 +1,4 @@
-# 👋 Olá, eu sou o Matheus Henrique!
 
-**Desenvolvedor Full-Stack | Designer Gráfico | Pentester**
-
----
 
 ### 👨‍💻 Sobre Mim
 
